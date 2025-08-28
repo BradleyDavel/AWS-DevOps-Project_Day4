@@ -14,8 +14,7 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-codebuild-updated)
 
 **Author:** Bradley Davel  
-**Email:** bradleydavel123@gmail.com
-
+**Email:** bradley.davel@outlook.com
 ---
 
 ![Image](http://learn.nextwork.org/sparkling_indigo_heroic_bat/uploads/aws-devops-codebuild-updated_35588a47)
